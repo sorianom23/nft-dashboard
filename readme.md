@@ -23,7 +23,7 @@ The following dashboard contains the following info:
 - **Total Volume** over time.
 
 ## Technologies used
-* SQL
-* Dune Analytics: Community-based, open-source data provider which allows anyone to publish and access crypto trends in real-time.
+* ⚙️ SQL
+* 🏜 Dune Analytics: Community-based, open-source data provider which allows anyone to publish and access crypto trends in real-time.
 
 ![Collection images](screenshot2.png)
