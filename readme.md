@@ -5,7 +5,8 @@
 
 👉🏼 [Check it out here](https://dune.com/sorianom23/inBetweeners-Stats) 👈🏼
 
-![Collection images](screenshot2.png)
+![Screenshot](screenshot1.png)
+Example of visualization
 
 ## About
 I found myself immersed in the NFT world some time ago. 3 inBetweeners bears were my first NFTs.
@@ -25,5 +26,4 @@ The following dashboard contains the following info:
 * SQL
 * Dune Analytics: Community-based, open-source data provider which allows anyone to publish and access crypto trends in real-time.
 
-![Screenshot](screenshot1.png)
-Example of visualization
+![Collection images](screenshot2.png)
