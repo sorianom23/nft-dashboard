@@ -1,7 +1,7 @@
 
 -- This file shows the queries used for the inBetweeners NFT Dashboard.
--- The inBetweeners NFT Dashboard has been done usin Dune Analytics.
--- Dune Analytics is a community-base, open-source data provider, which allows anyone to publish and access crypto trends in real time.
+-- The inBetweeners NFT Dashboard has been done using Dune Analytics.
+-- Dune Analytics is a community-based, open-source data provider, which allows anyone to publish and access crypto trends in real time.
 
 
 ----------------------------------------------------------------------
